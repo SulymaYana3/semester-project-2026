@@ -90,3 +90,10 @@ Rest of the content is under [Creative Commons Attribution 4.0 International](ht
 
 ---
 **Contact:** If you find corrupted images or have issues with the StarDist plugin, please open an "Issue" in this repository.
+
+---
+
+### Contributors
+
+This project is a collaborative effort by students in the Advanced Image Analysis course at UCT.
+
