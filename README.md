@@ -119,17 +119,17 @@ Rest of the content is under [Creative Commons Attribution 4.0 International](ht
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/zuzkito>
-            <img src=https://avatars.githubusercontent.com/u/247555077?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Zuzka/>
-            <br />
-            <sub style="font-size:14px"><b>Zuzka</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/matusuklara>
             <img src=https://avatars.githubusercontent.com/u/263565769?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Klára Matúšů/>
             <br />
             <sub style="font-size:14px"><b>Klára Matúšů</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/zuzkito>
+            <img src=https://avatars.githubusercontent.com/u/247555077?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Zuzka/>
+            <br />
+            <sub style="font-size:14px"><b>Zuzka</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
