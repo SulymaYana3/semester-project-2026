@@ -155,6 +155,13 @@ Rest of the content is under [Creative Commons Attribution 4.0 International](ht
             <sub style="font-size:14px"><b>Annalisik</b></sub>
         </a>
     </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/SulymaYana3>
+            <img src=https://avatars.githubusercontent.com/u/256403333?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=SulymaYana3/>
+            <br />
+            <sub style="font-size:14px"><b>SulymaYana3</b></sub>
+        </a>
+    </td>
 </tr>
 </table>
 
